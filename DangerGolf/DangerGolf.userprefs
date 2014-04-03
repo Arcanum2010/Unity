@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\BalloonPop\Assets\Scripts\ManageGame.cs">
+    <Files>
+      <File FileName="..\BalloonPop\Assets\Scripts\Pumping.cs" Line="88" Column="18" />
+      <File FileName="..\BalloonPop\Assets\Scripts\ManageGame.cs" Line="23" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
